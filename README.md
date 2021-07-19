@@ -1,5 +1,7 @@
 # Finance-Analytics-Project
 
+### Explaining 2020 Stock Returns with Different Industry Classification Systems
+
 **Examining Which Industry Classification System can best explain and predict stock returns for:**
 1. Initial pandemic downturn (Jan 2020 -Mar 2020)
 2. Subsequent recovery (Apr 2020 -Dec 2020)
